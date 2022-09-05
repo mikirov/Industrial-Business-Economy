@@ -9,6 +9,28 @@
 - price politics
 - price variations
 - price discriminaiton
-- payment options
+- payment methods
 - credit options
+
+
+#User 
+- subconciously compares PROS/CONS
+
+#Communications
+- ads
+- cold sales
+- PR
+- sonsorships
+- direct marketing
+- TV, radio, social media
+- BTL ads (bellow the line) - product placement, influencers - more used nowadays
+- direct marketing (nowadays form of digital marketing)
+
+
+# Markstrat
+
+- which element of the marketing mix yields the most profit (google search later)
+- need to write an email for increase in markstrat allowance
+- van vestendorf
+- conjoint analysis
 
